@@ -1,2 +1,2 @@
 # intro-python
-The github page for Jake Lough's work in Into Python
+The GitHub page for Jake Lough's work in Intro Python
